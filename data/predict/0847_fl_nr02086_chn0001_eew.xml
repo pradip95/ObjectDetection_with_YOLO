@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeling_working_folder</folder>
+	<filename>0847_fl_nr02086_chn0001_eew.png</filename>
+	<path>C:\Users\Merten\Documents\programming\brake_noise_detector\00_data_preparation\new_labeling_folder\labeling_working_folder\0847_fl_nr02086_chn0001_eew.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wirebrush</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>3</ymin>
+			<xmax>219</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
